@@ -1,2 +1,2 @@
 # Fashion-MNIST-
-CNN to detect the clothing outfit
+A Convolutional Neural Network to detect the clothing outfit represented by the values in the pixels. It is trained on 60,000 passed through a CNN consisting of Convolutional layers, Max Pooling layers, Batch Normalization, and Dropout to address the problem of overfitting. The optimizer used is Adam, giving an accuracy of 92.95% on the training set and tested on 10,000 images giving an accuracy of 90.006%.
